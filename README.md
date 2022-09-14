@@ -4,4 +4,4 @@
 
 ![Run on Repl.it](https://repl.it/badge/github/Alex-Nelson-1/ICS2O-UNIT1-02-JS)](https://repl.it/github/Alex-Nelson-1/ICS2O-UNIT1-02-JS)
 
-This site can be found at: [https://Alex-Nelson-1.github.io/ICS2O-UNIT1-02-JS](https://Alex-Nelson-1.github.io/CS2O-UNIT1-02-JS)
+This site can be found at: [https://Alex-Nelson-1.github.io/ICS2O-UNIT1-02-JS](https://Alex-Nelson-1.github.io/ICS2O-UNIT1-02-JS)
